@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Sniglet', sans-serif;
+    cursor: url('https://icons.iconarchive.com/icons/csscreme/halloween/64/skull-crossbones-icon.png') 32 32, auto;
+    background-image: url('https://img3.goodfon.com/wallpaper/nbig/0/8a/cherepa-mnogo-smert-fon.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
+}
