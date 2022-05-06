@@ -20,7 +20,7 @@
 <script>
     const number = document.getElementById('number')
     number.addEventListener('input', () => {
-        document.getElementById("output").innerHTML = `Number of false sentences: ${percentage(document.getElementById("number").value, 4.1).toFixed(2)}`
+        document.getElementById("output").innerHTML = `Number of false sentences: ${percentage(document.getElementById("number").value, 4.1).toFixed(1)}`
         document.getElementById("input").innerHTML = `Number of people sentenced: ${document.getElementById("number").value}`
     })
     function percentage(num, per)
