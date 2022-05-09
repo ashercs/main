@@ -1,17 +1,1 @@
-* {
-    box-sizing: border-box;
-    font-family: 'Sniglet', sans-serif;
-    background-image: url('https://img3.goodfon.com/wallpaper/nbig/0/8a/cherepa-mnogo-smert-fon.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-size: 100% 100%;
-}
 
-body {
-    cursor: url("https://i.imgur.com/oHjNfKW.gif"), auto;
-}
-
-#number {
-    cursor: url("https://i.imgur.com/0A7Xmqx.png"), default;
-}
